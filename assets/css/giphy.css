@@ -1,0 +1,20 @@
+.heading {
+	text-align: center;
+	font-size: 40px;
+}
+
+.top-row {
+	text-align: center
+}
+
+.picture-div {
+	text-align: center;
+	display: inline-flex;
+	flex-wrap: wrap;
+}
+
+.gif {
+	margin-left: 20px;
+	border-style: solid;
+	border-color: red;
+}
